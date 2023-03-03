@@ -1,4 +1,5 @@
-# blockchain-web-clone
+# Blockchain web page clone
+#### I cloned the blockchain website to combine my html and css information
 
 ## [Live Demo](https://blockchain-web-clone.netlify.app/)
 
@@ -9,5 +10,5 @@
 ```
 git clone https://github.com/fatihydrm/blockchain-web-clone.git
 cd blockchain-web-clone
-code .
+right click open html file with live server
 ```
